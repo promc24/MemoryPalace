@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Memory Palace</string>
+    <string name="rooms">My rooms</string>
+    <string name="search_room">Search room</string>
+    <string name="room_title">Input rooms title here</string>
+    <string name="upload">Upload</string>
+    <string name="take_photo">Use camera</string>
+    <string name="memorize_data">Input here what you have to memorize…</string>
+    <string name="room_delete">Delete Room</string>
+    <string name="deleteRoom_msg">Are you sure you want to delete this room?</string>
+    <string name="confirm_btn">Delete Room</string>
+    <string name="cancel_btn">Cancel</string>
+</resources>
